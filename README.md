@@ -1,7 +1,6 @@
 ### Pipelining
 
-* Get application assign to IBM to read the github
-* Curl for Github to connect to the cluster.
+* Get application assign to IBM to be able to see the github (Enterprice Github) Curl for Github to connect to the cluster.
   - `RELEASE=$(curl -s https://api.github.com/repos/IBM/ibm-garage-tekton-tasks/releases/latest | jq -r '.tag_name')`
 * Holding the toolkit
   - `export NAMESPACE="tools"`
