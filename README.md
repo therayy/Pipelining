@@ -16,5 +16,7 @@
   - `oc policy add-role-to-user edit system:serviceaccount:<YOUR-PROJECT-NAME>:pipeline`
 * Run Pipeline
   - `oc pipeline`
+
+#### Notes
 * 1 tier app single tier application.
 * 3 tier app Front-End application with Back-End Application, Service & Database.
