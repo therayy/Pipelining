@@ -13,7 +13,6 @@
   - `oc adm policy add-role-to-user edit -z pipeline`
 * Optional
   - `oc policy add-role-to-user edit system:serviceaccount:<YOUR-PROJECT-NAME>:pipeline`
-  - `oc policy add-role-to-user edit system:serviceaccount:<YOUR-PROJECT-NAME>:pipeline`
 * Run Pipeline
   - `oc pipeline`
 
