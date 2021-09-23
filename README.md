@@ -43,8 +43,8 @@
 ___________________________________________________________________________________
 
 #### Get Credentials:
-- '''
-   igc credentials
+- ```
+  igc credentials
 
 #### Notes
 * 1 tier app single tier application.
