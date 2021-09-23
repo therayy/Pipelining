@@ -5,16 +5,20 @@
    -  ```
       curl -sfL get.cloudnativetoolkit.dev | sh -
 - [Workshop]
-  - ```curl -sfL workshop.cloudnativetoolkit.dev | sh -
+  - ```
+      curl -sfL workshop.cloudnativetoolkit.dev | sh -
 
 * Get application assign to IBM to be able to see the github (Enterprice Github) Curl for Github to connect to the cluster.
-  - ```RELEASE=$(curl -s https://api.github.com/repos/IBM/ibm-garage-tekton-tasks/releases/latest | jq -r '.tag_name')
+  - ```
+       RELEASE=$(curl -s https://api.github.com/repos/IBM/ibm-garage-tekton-tasks/releases/latest | jq -r '.tag_name')
 
 * Holding the toolkit
-  - ```export NAMESPACE="tools"
+  - ```
+       export NAMESPACE="tools"
 
 * Giving access for K8's to run the pipeline.
-  - ```kubectl apply -n ${NAMESPACE} -f "https://github.com/IBM/ibm-garage-tekton-tasks/releases/download/${RELEASE}/release.yaml"
+  - ```
+       kubectl apply -n ${NAMESPACE} -f "https://github.com/IBM/ibm-garage-tekton-tasks/releases/download/${RELEASE}/release.yaml"
    
 * Giving admin policies.
   - ```oc adm policy add-scc-to-user anyuid system:serviceaccount:tekton-pipelines:tekton-pipelines-controller
