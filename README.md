@@ -4,7 +4,7 @@
 - TOOLKIT 
    -  ```
       curl -sfL get.cloudnativetoolkit.dev | sh -
-- [Workshop]
+- Workshop
   - ```
     curl -sfL workshop.cloudnativetoolkit.dev | sh -
 
