@@ -1,7 +1,7 @@
 ### Pipelining or Running the application to the cloud.
 ##### Cluster Setup:
 - [IBM Cloud Native toolkit Setup ](https://cloudnativetoolkit.dev/resources/workshop/setup/)
-- [TOOLKIT] 
+- TOOLKIT 
    ```curl -sfL get.cloudnativetoolkit.dev | sh -``` 
 - [Workshop]
   - ``` curl -sfL workshop.cloudnativetoolkit.dev | sh - ``` 
