@@ -33,7 +33,7 @@
 
 * Optional
   - ```
-    oc policy add-role-to-user edit system:serviceaccount:<YOUR-PROJECT-NAME>:pipeline```
+    oc policy add-role-to-user edit system:serviceaccount:<YOUR-PROJECT-NAME>:pipeline
    
 * Run Pipeline
   - ```
