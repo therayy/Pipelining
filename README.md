@@ -1,9 +1,10 @@
 ### Pipelining or Running the application to the cloud.
 ##### Cluster Setup:
 - [IBM Cloud Native toolkit Setup ](https://cloudnativetoolkit.dev/resources/workshop/setup/)
-''' 
+``` 
 curl -sfL get.cloudnativetoolkit.dev | sh -
 curl -sfL workshop.cloudnativetoolkit.dev | sh - 
+```
 * Get application assign to IBM to be able to see the github (Enterprice Github) Curl for Github to connect to the cluster.
   - `RELEASE=$(curl -s https://api.github.com/repos/IBM/ibm-garage-tekton-tasks/releases/latest | jq -r '.tag_name')`
 * Holding the toolkit
