@@ -40,6 +40,11 @@
 * Run Pipeline
   - ```
     oc pipeline
+___________________________________________________________________________________
+
+#### Get Credentials:
+- '''
+   igc credentials
 
 #### Notes
 * 1 tier app single tier application.
