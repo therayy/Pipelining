@@ -8,7 +8,7 @@
     
 - STEP 3:
 <br>
-<p align="center">
+<p align="left">
   <img width="300px" src="imgs/login.jpeg">
 </p>
 <br>
