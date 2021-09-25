@@ -38,7 +38,8 @@
                 </p>
                 <br>
 - STEP 6:
-    - RUN ```
+    - RUN 
+          ```
           igc cerdentials 
     
         
