@@ -7,4 +7,11 @@
     curl -sL shell.cloudnativetoolkit.dev | bash - source ~/.bashrc || source ~/.zshrc
     
 - STEP 3:
-- 
+<br>
+
+<p align="center">
+    <img width="500px" src="img/login.jpeg">
+</p>
+
+<br>
+
