@@ -17,7 +17,6 @@
     - ```
       TOOLKIT_PROJECT=projectdemo
     
-    - ```
-      oc sync $TOOLKIT_PROJECT-dev
+    - ```oc sync $TOOLKIT_PROJECT-dev
       
       
