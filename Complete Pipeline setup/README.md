@@ -25,5 +25,10 @@
     - Open your terminal and run that command to access the OpenShift web console 
         - ```
           oc console  
-      
+        - Then Access the 9 dots on the top right of the web console and choose Developer Dashboard as the following image: 
+               <br>
+                <p align="left">
+                  <img width="200px" src="imgs/login.jpeg">
+                </p>
+                <br>
       
