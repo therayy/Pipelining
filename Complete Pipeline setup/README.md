@@ -16,8 +16,8 @@
     - Set TOOLKIT_PROJECT environment variable If you are participation in a workshop replace projectdemo based on your assigned username (ex. project01).
     - ```
       TOOLKIT_PROJECT=projectdemo
-      
-      ```
+    
+    - ```
       oc sync $TOOLKIT_PROJECT-dev
       
       
