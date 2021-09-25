@@ -40,5 +40,5 @@
 - STEP 6:
        - `igc credentials` 
 
-##### "Shows all Credentials, use these to access each and every tool added on the 9 dots through the web console to make sure its giving you access - Skip The artifactory "Jfrog" as it has to have a kind of connection with the openshift itself."
+    ##### "Shows all Credentials, use these to access each and every tool added on the 9 dots through the web console to make sure its giving you access - Skip The artifactory "Jfrog" as it has to have a kind of connection with the openshift itself."
         
