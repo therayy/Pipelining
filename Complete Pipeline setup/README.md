@@ -9,7 +9,7 @@
 - STEP 3:
 <br>
 <p align="left">
-  <img width="300px" src="imgs/login.jpeg">
+  <img width="200px" src="imgs/login.jpeg">
 </p>
 <br>
 
