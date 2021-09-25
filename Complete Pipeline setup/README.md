@@ -17,6 +17,13 @@
     - ```
       TOOLKIT_PROJECT=projectdemo
     
-    - ``` oc sync $TOOLKIT_PROJECT-dev
+    - ```
+      oc sync $TOOLKIT_PROJECT-dev
+      
+- STEP 5: 
+    - FORK and Clone the template git repo
+    - Open your terminal and run that command to access the OpenShift web console 
+     ```
+     oc console  
       
       
