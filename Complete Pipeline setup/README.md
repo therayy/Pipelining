@@ -37,3 +37,8 @@
                   <img width="500px" src="imgs/starter-kits.jpeg">
                 </p>
                 <br>
+- STEP 6:
+    - RUN ```
+          igc cerdentials 
+    
+        
