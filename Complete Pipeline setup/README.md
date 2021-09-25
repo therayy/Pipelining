@@ -8,10 +8,8 @@
     
 - STEP 3:
 <br>
-
 <p align="center">
-    <img width="300px" src="imgs/login.jpeg">
+  <img width="300px" src="imgs/login.jpeg">
 </p>
-
 <br>
 
