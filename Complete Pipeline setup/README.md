@@ -31,4 +31,9 @@
                   <img width="100px" src="imgs/developer-dashboard.jpeg">
                 </p>
                 <br>
-      
+         - Select the Starter Kits and from that go select *GO GIN MICROSERVICE* and fork that repo.
+                <br>
+                <p align="left">
+                  <img width="100px" src="imgs/starter-kits.jpeg">
+                </p>
+                <br>
