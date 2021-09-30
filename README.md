@@ -2,6 +2,7 @@
 ##### Cluster Setup:
 - [IBM Cloud Native toolkit Setup ](https://cloudnativetoolkit.dev/resources/workshop/setup/)
 - [IBM Tier app setup](https://cloudnativetoolkit.dev/resources/workshop/inventory/)
+- [Hands-ON-TechZone](https://ec.yourlearning.ibm.com/w3/playback/10208199)
 
 - TOOLKIT 
    -  ```
