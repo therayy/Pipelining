@@ -3,6 +3,7 @@
 - [IBM Cloud Native toolkit Setup ](https://cloudnativetoolkit.dev/resources/workshop/setup/)
 - [IBM Tier app setup](https://cloudnativetoolkit.dev/resources/workshop/inventory/)
 - [Hands-ON-TechZone](https://ec.yourlearning.ibm.com/w3/playback/10208199)
+- [Artifactory setup](https://cloudnativetoolkit.dev/reference/tools/artifactory/)
 
 - TOOLKIT 
    -  ```
