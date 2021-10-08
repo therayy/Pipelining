@@ -1,5 +1,4 @@
 ### Pipelining or Running the application to the cloud.
-[<img align="left" alt=" IBM | IBM" width="150px" src="https://iconape.com/wp-content/files/yk/70038/png/ibm.png" />] [IBM]
 ##### Cluster Setup:
 - [IBM Cloud Native toolkit Setup ](https://cloudnativetoolkit.dev/resources/workshop/setup/)
 - [IBM Tier app setup](https://cloudnativetoolkit.dev/resources/workshop/inventory/)
